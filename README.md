@@ -8,4 +8,4 @@ A Multi-Purpose Convertor with an attractive GUI in python. Various conversions 
 4. We can choose from Temperature, Currency and Units.
 5. In Units, we have Length, Mass and Volume convertor.
 
-We hope you have fun with this project!
+We hope you liked it.
